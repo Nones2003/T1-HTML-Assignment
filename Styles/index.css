@@ -1,9 +1,19 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<style>
-	
+@charset "utf-8";
+body {
+	background-color: #e5e5ff;
+	font-family: "Lato", sans-serif;
+}
+
+#header {
+	background-color: #9eb6ff;
+	height: 100px;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	position: fixed;	
+}
+
 .main {
   font-size: 28px; 
   padding: 0px 10px;
@@ -13,7 +23,8 @@
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 40px;}
   .sidenav a {font-size: 30px;}
-}	
+}
+	
 
 body {
 	background-color: #e5e5ff;
@@ -30,6 +41,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  
 }
 
 li {
@@ -71,32 +83,8 @@ li.dropdown {
   text-align: left;
 }
 
-.dropdown-content a:hover {
-	background-color: #BAA6E2;
-	}
+.dropdown-content a:hover {background-color: #BAA6E2;}
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-</style>
-	
-</head>
-	
-<body>
-	
-<ul>
-	<li><a href="index.html">Home</a></li>
-	<li><a href="News.html">News</a></li>
-	<li><a href="Do_aliens_exist.html">Do aliens exist?</a></li>
-	<li><a href="The_HST.html">What's the HST?</a></li>
-	<li><a href="#">Calculus</a></li>
-	<li><a href="Contact Isabel.html">Contact Isabel</a></li>
-	<li><a href="About_the_author.html">About the author</a></li>
-</ul>
-<br>
-<h1>About the author</h1>
-	
-</body>
-	
-</html>
+}	
