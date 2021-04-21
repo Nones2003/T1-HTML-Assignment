@@ -1,10 +1,10 @@
 # HTML-Project-2021
-Hi, and welcome to my website! [Here's the link!](https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/)
+Hi, and welcome to my first website! [Here's the link!](https://isabel-lifu-211207-xprado.github.io/HTML-Project-2021/)
 
 In case you didn't know, I am Isabel Lifu, a ninth-grade student. I am highly professional with quality designs and authenticity in my work. This repository is part of my Digital Technology assignment, but feel free to take a look ( •̀ ω •́ )y\
 
 
-Here's a quick summary of my website:
+Here's a quick summary of my website, which consists of seven separate HTML files and five CSS documents:
 
 Index.html - This is the home page of my website, and it has boxed and hyperlinked images that take you to the destination described right below them. When you hover your pointer over the box, its outline changes colour, from light grey to black. This is my own unique design for a stylish homepage, where the links and titles are always in the navigation bar at the top. ༼ つ ◕_◕ ༽つ
 
